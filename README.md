@@ -1,3 +1,3 @@
 # miweb2
 
-comentario
+comentaria inclusiva
